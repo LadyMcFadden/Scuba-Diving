@@ -1,11 +1,9 @@
 import java.util.Scanner;	// Needed for the Scanner class
 
 /************************************************************************
-*																		*
 *
-*																		*
-*	This program intended to verify the appropriate mixture of oxygen   *
-*	and nitrogen in the gas used by scuba divers.						*
+*	This program intended to verify the appropriate mixture of oxygen   
+*	and nitrogen in the gas used by scuba divers.						
 *																		*
 ************************************************************************/
 
