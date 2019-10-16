@@ -2,8 +2,7 @@ import java.util.Scanner;	// Needed for the Scanner class
 
 /************************************************************************
 *																		*
-*	Pebbles Redondo	COP2800 Intro to Java w/ Professor Jimenez			*
-*	January 28, 2016	Scuba Diving Program							*
+*
 *																		*
 *	This program intended to verify the appropriate mixture of oxygen   *
 *	and nitrogen in the gas used by scuba divers.						*
